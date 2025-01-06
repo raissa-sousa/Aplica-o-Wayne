@@ -1,0 +1,74 @@
+{
+    "Tecnologia e Inovação": [
+        {
+            "nome": "Pesquisa e Desenvolvimento (P&D)",
+            "status": "Ativo"
+        },
+        {
+            "nome": "Dispositivos e Gadgets",
+            "status": "Inativo"
+        },
+        {
+            "nome": "Laboratórios Avançados",
+            "status": "Ativo"
+        },
+        {
+            "nome": "Tecnologias Sustentáveis",
+            "status": "Ativo"
+        }
+    ],
+    "Saúde e Biotecnologia": [
+        {
+            "nome": "Pesquisa Biomédica",
+            "status": "Ativo"
+        },
+        {
+            "nome": "Farmacêutica",
+            "status": "Inativo"
+        },
+        {
+            "nome": "Dispositivos Médicos",
+            "status": "Ativo"
+        },
+        {
+            "nome": "Biotecnologia Avançada",
+            "status": "Ativo"
+        }
+    ],
+    "Indústria Automotiva e Engenharia": [
+        {
+            "nome": "Desenvolvimento de Veículos",
+            "status": "Ativo"
+        },
+        {
+            "nome": "Soluções de Mobilidade Sustentável",
+            "status": "Ativo"
+        },
+        {
+            "nome": "Engenharia Avançada",
+            "status": "Ativo"
+        },
+        {
+            "nome": "Infraestrutura Urbana",
+            "status": "Inativo"
+        }
+    ],
+    "Tecnologia da Informação e IA": [
+        {
+            "nome": "Sistemas de Computação",
+            "status": "Ativo"
+        },
+        {
+            "nome": "IA e Automação",
+            "status": "Ativo"
+        },
+        {
+            "nome": "Cibersegurança",
+            "status": "Ativo"
+        },
+        {
+            "nome": "Big Data e Machine Learning",
+            "status": "Inativo"
+        }
+    ]
+}

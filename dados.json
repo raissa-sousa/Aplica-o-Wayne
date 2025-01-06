@@ -1,0 +1,68 @@
+{
+    "equipamentos": [
+        {
+            "id": 1,
+            "nome": "Batcomputer",
+            "tipo": "Tecnologia",
+            "status": "Ativo"
+        },
+        {
+            "id": 2,
+            "nome": "Scanner",
+            "tipo": "Tecnologia",
+            "status": "Ativo"
+        },
+        {
+            "id": 3,
+            "nome": "Impressora 3D",
+            "tipo": "Tecnologia",
+            "status": "Ativo"
+        }
+    ],
+    "veiculos": [
+        {
+            "id": 1,
+            "nome": "Batm\u00f3vel",
+            "tipo": "Ve\u00edculo",
+            "status": "Ativo"
+        },
+        {
+            "id": 2,
+            "nome": "Tesla",
+            "tipo": "Ve\u00edculo",
+            "status": "Ativo"
+        },
+        {
+            "id": 3,
+            "nome": "BYD",
+            "tipo": "Ve\u00edculo",
+            "status": "Ativo"
+        }
+    ],
+    "seguranca": [
+        {
+            "id": 1,
+            "nome": "C\u00e2mera",
+            "tipo": "Seguran\u00e7a",
+            "status": "Ativo"
+        },
+        {
+            "id": 2,
+            "nome": "Sensor de presen\u00e7a",
+            "tipo": "Seguran\u00e7a",
+            "status": "Ativo"
+        },
+        {
+            "id": 3,
+            "nome": "Sensor de temperatura",
+            "tipo": "Seguran\u00e7a",
+            "status": "Ativo"
+        },
+        {
+            "id": 4,
+            "nome": "Localizador Via Sat\u00e9lite",
+            "tipo": "Seguran\u00e7a",
+            "status": "Ativo"
+        }
+    ]
+}

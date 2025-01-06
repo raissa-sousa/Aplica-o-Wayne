@@ -1,0 +1,40 @@
+{
+    "dados": [
+        {
+            "id": 1,
+            "nome": "\u00cdndice de Criminalidade",
+            "valor": 70,
+            "tipo": "%"
+        },
+        {
+            "id": 2,
+            "nome": "\u00cdndice de Corrup\u00e7\u00e3o",
+            "valor": 50,
+            "tipo": "%"
+        },
+        {
+            "id": 3,
+            "nome": "\u00cdndice de Crimes Solucionados",
+            "valor": 90,
+            "tipo": "%"
+        },
+        {
+            "id": 4,
+            "nome": "N\u00famero de Viaturas",
+            "valor": 45,
+            "tipo": "Un."
+        },
+        {
+            "id": 5,
+            "nome": "N\u00famero de C\u00e2meras Ativas",
+            "valor": 120,
+            "tipo": "Un."
+        },
+        {
+            "id": 6,
+            "nome": "N\u00famero de Super Vil\u00f5es",
+            "valor": 10,
+            "tipo": "Un."
+        }
+    ]
+}
