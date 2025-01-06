@@ -1,1 +1,1 @@
-# Aplica-o-Wayne
+# Aplicação Wayne
